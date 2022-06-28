@@ -4,8 +4,7 @@
 
 <hr />
 
-<img src="https://img.shields.io/badge/Version-0.1.0-green" />
-<a target="blank" href="#"><img src="https://img.shields.io/badge/Website-Offline-red" /></a>
+<img src="https://img.shields.io/badge/Version-0.1.0-green" /> <a target="blank" href="#"><img src="https://img.shields.io/badge/Website-Offline-red" /></a>
 
 <hr />
 
