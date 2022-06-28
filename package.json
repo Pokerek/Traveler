@@ -1,0 +1,28 @@
+{
+  "name": "traveler",
+  "version": "0.1.0",
+  "description": "Travel app created in M.E.R.N stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pokerek/Traveler.git"
+  },
+  "keywords": [
+    "Travel",
+    "Map",
+    "Jurney",
+    "Gamification"
+  ],
+  "author": "Karol Chrobok aka Pokerek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pokerek/Traveler/issues"
+  },
+  "homepage": "https://github.com/Pokerek/Traveler#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
